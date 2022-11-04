@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Danu Purnomo</h1>
+<h1 align="center">Hi 👋, I'm Teza Marlevi Fajar</h1>
 <h3 align="center">Someone who likes to run in the morning and run with code</h3>
 <h4 align="center"><i>Data Science and Cloud Computing Practitioner</i></h4>
 
