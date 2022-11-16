@@ -43,11 +43,11 @@
 
 #### ☁️ Services
 [![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)](https://github.com)
-<!-- [![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)](https://firebase.google.com)
-[![Cloudflare](https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare)](https://www.cloudflare.com) -->
 [![GCP](https://img.shields.io/badge/-Google%20Cloud%20Platform-05122A?style=flat&logo=google-cloud)](https://cloud.google.com)
 [![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-05122A?style=flat&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com)
 [![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)](https://heroku.com)
+<!-- [![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)](https://firebase.google.com)
+[![Cloudflare](https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare)](https://www.cloudflare.com) -->
 
 #### 🛠️ Tools
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=21AAF2)](https://code.visualstudio.com)
