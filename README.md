@@ -70,4 +70,6 @@
 
 <!-- [![tezamarlevi's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tezamarlevi&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
 
+[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=tezamarlevi&theme=xcode)](https://github.com/tezamarlevi/github-readme-activity-graph)
+
 ![tezamarlevi's Profile views](https://komarev.com/ghpvc/?username=tezamarlevi&color=blue&style=flat&label=Profile+views)
