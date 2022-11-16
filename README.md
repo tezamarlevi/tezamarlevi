@@ -1,17 +1,73 @@
-<h1 align="center">Hi 👋, I'm Teza Marlevi Fajar</h1>
-<h3 align="center">Someone who likes to run in the morning and run with code</h3>
-<h4 align="center"><i>Data Science and Cloud Computing Practitioner</i></h4>
+##  👋 Hi Everyone! I'm Teza 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tezamarlevi&label=Profile%20views&color=0e75b6&style=flat" alt="tezamarlevi" /> </p>
+👨🏻‍💻 Currently Iam working as Data Analyst.\
+💡 I like to explore new technologies, I'm a Tech Enthusiast.\
+<!-- 🌱 Learning everything about Front-End and Back-End technologies.\ -->
+<!-- 🔭 Interest: Learning Golang, because I really love Back-End.\ -->
+⚡ Fun fact: I love Machine Learning and Analyst Case.
 
-<p align="left">
-</p>
+#### You may reach me at
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://https://www.linkedin.com/in/teza-marlevi-fajar/)
+<!-- [![Spotify](https://img.shields.io/badge/-Spotify-1CD05D?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/mc4unooh8oxhz45ec5d1vvvq3) -->
+<!-- [![Twitter](https://img.shields.io/badge/-Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akbarhabiby) -->
+<!-- [![Youtube](https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/akbarhabiby) -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+#### 📚 Languages
+[![Python](https://img.shields.io/badge/-Pyhton-05122A?style=flat&logo=python)](https://www.python.org/)
+<!-- [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://www.javascript.com) -->
+<!-- [![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)](https://golang.org) -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tezamarlevi&show_icons=true&locale=en&layout=compact" alt="tezamarlevi" /></p>
+#### ✨ SQL
+<!-- [![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)](https://expressjs.com) -->
+<!-- [![NestJS](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestjs)](https://nestjs.com) -->
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)](https://www.postgresql.org)
+<!-- [![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)](https://www.mongodb.com) -->
+<!-- [![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)](https://redis.io) -->
+<!-- [![socket.io](https://img.shields.io/badge/-socket.io-05122A?style=flat&logo=socket.io)](https://socket.io) -->
+<!-- [![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-05122A?style=flat&logo=apollo-graphql&logoColor=DD34A6)](https://www.apollographql.com) -->
+<!-- [![Mocha](https://img.shields.io/badge/-Mocha-05122A?style=flat&logo=mocha)](https://mochajs.org) -->
+<!-- [![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest&logoColor=C21324)](https://jestjs.io) -->
+<!-- [![Sequelize](https://img.shields.io/badge/-Sequelize-05122A?style=flat)](https://sequelize.org) -->
+<!-- [![mongoose](https://img.shields.io/badge/-mongoose-05122A?style=flat)](https://mongoosejs.com) -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tezamarlevi&show_icons=true&locale=en" alt="tezamarlevi" /></p>
+<!-- #### 🌐 Front-End
+[![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)](https://reactjs.org)
+[![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)](http://reactnative.dev)
+[![React Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=764ABC)](https://react-redux.js.org)
+[![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)](https://vuejs.org)
+[![React Router](https://img.shields.io/badge/-React%20Router-05122A?style=flat&logo=react-router)](https://reactrouter.com)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)](https://getbootstrap.com)
+[![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)](https://en.wikipedia.org/wiki/HTML5)
+[![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)](https://en.wikipedia.org/wiki/CSS) -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tezamarlevi&" alt="tezamarlevi" /></p>
+#### ☁️ Services
+[![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)](https://github.com)
+<!-- [![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)](https://firebase.google.com)
+[![Cloudflare](https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare)](https://www.cloudflare.com) -->
+[![GCP](https://img.shields.io/badge/-Google%20Cloud%20Platform-05122A?style=flat&logo=google-cloud)](https://cloud.google.com)
+[![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-05122A?style=flat&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com)
+[![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)](https://heroku.com)
+
+#### 🛠️ Tools
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=21AAF2)](https://code.visualstudio.com)
+[![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](https://git-scm.com)
+<!-- [![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)](https://www.postman.com) -->
+<!-- [![iTerm2](https://img.shields.io/badge/-iTerm2-05122A?style=flat)](https://iterm2.com) -->
+
+#### ⚙️ Operating System
+<!-- [![macOS](https://img.shields.io/badge/-macOS-05122A?style=flat&logo=apple)](https://www.apple.com/id/macos)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)](https://ubuntu.com) -->
+[![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows&logoColor=007ACC)](https://www.microsoft.com/en-us/windows)
+
+<!-- 
+#### 🎵 Now Playing
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mc4unooh8oxhz45ec5d1vvvq3&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
+
+#### Statistics
+[![tezamarlevi github streaks](https://github-readme-streak-stats.herokuapp.com/?user=tezamarlevi&theme=react)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+[![tezamarlevi's Github stats](https://github-readme-stats.vercel.app/api?username=tezamarlevi&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![tezamarlevi's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tezamarlevi&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![tezamarlevi's Profile views](https://komarev.com/ghpvc/?username=tezamarlevi&color=blue&style=flat&label=Profile+views)
