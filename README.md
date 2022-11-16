@@ -1,10 +1,11 @@
-##  👋 Hi Everyone! I'm Teza 👋
+##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">  Hi Everyone! I'm Teza 
 
 👨🏻‍💻 Currently Iam working as Data Analyst.\
 💡 I like to explore new technologies, I'm a Tech Enthusiast.\
+⚡ Fun fact: I love Machine Learning and Analyst Case.
 <!-- 🌱 Learning everything about Front-End and Back-End technologies.\ -->
 <!-- 🔭 Interest: Learning Golang, because I really love Back-End.\ -->
-⚡ Fun fact: I love Machine Learning and Analyst Case.
+
 
 #### You may reach me at
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://https://www.linkedin.com/in/teza-marlevi-fajar/)
@@ -70,6 +71,6 @@
 
 <!-- [![tezamarlevi's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tezamarlevi&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=tezamarlevi&theme=xcode)](https://github.com/tezamarlevi/github-readme-activity-graph)
+[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=tezamarlevi&theme=tokyo-night)](https://github.com/tezamarlevi/github-readme-activity-graph)
 
 ![tezamarlevi's Profile views](https://komarev.com/ghpvc/?username=tezamarlevi&color=blue&style=flat&label=Profile+views)
